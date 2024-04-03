@@ -1,4 +1,8 @@
 {
+
+    "version": 2,
+"buildCommand": "npm run build -f",
+"installCommand": "npm install -f",
     "headers": [
       {
         "source": "/api/(.*)",
